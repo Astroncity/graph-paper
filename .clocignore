@@ -1,0 +1,8 @@
+include/raylib.h
+include/rlgl.h
+include/flecs.h
+build/
+comp.sh
+stats.sh
+git/
+src/utils/planetNameScraper/scrap/
