@@ -33,7 +33,7 @@ void setWindowFlags(void) {
     InitAudioDevice();
     SetMasterVolume(1);
     SetTargetFPS(60);
-    SetWindowSize(screenWidth * 2, screenHeight * 2);
+    SetWindowSize(screenWidth * 0.75, screenHeight * 0.75);
 }
 
 f32 getWindowScale() {
