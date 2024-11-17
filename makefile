@@ -10,7 +10,7 @@ BUILD_DIR = build
 BIN_DIR = bin
 
 # Output executable name
-OUTPUT_NAME = output 
+OUTPUT_NAME = graph-paper
 
 # Source files and object files
 SRC_FILES = $(shell find $(SRC_DIR) -name '*.c')
